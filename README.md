@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Mio 👋
 
-<!--
-**nkysd/nkysd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student studying in Australia, focusing on software development.
 
-Here are some ideas to get you started:
+### Skills
+- Python (FastAPI)
+- Java / Kotlin (Android)
+- HTML / CSS / JavaScript
+- MySQL / Git / Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Web application (team project): login system, admin features
+- Android app: API communication, UI implementation
+- Java GUI applications
+
+I'm continuously improving my skills and building my portfolio.
