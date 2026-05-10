@@ -27,7 +27,7 @@ Before moving into IT, I worked in HR administration, sales support, and audio/t
 - **[Android API App](https://github.com/nkysd/android-api-app)**  
   An Android application using Kotlin, Retrofit, ViewModel, and API communication to display data across login, list, and detail screens.
 
-- **[Java GUI Application](https://github.com/nkysd/Java_Assessment)**  
+- **[Java GUI Application](https://github.com/nkysd/java-student-management-gui)**  
   A student management system built with Java Swing, focusing on OOP concepts such as inheritance, polymorphism, and event handling.
 
 ### 🌱 Currently Learning
