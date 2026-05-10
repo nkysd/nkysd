@@ -18,11 +18,11 @@ Before moving into IT, I worked in HR administration, sales support, and audio/t
 
 ### 🚀 Projects
 
-- **[SaaS Subscription Management System](https://github.com/nkysd/saas-subscription-management-system)**  
-  A web-based admin system built with ASP.NET Core MVC and Entity Framework Core for managing customers, subscription plans, invoices, and CRUD operations.
-
 - **[UrSaviour Web Application](https://github.com/JustinCoKA/UrSaviour-Project)**  
   A team project for managing grocery discount information. I worked on login authentication, admin features, database design, and backend development using FastAPI and MySQL.
+
+- **[SaaS Subscription Management System](https://github.com/nkysd/saas-subscription-management-system)**  
+  A web-based admin system built with ASP.NET Core MVC and Entity Framework Core for managing customers, subscription plans, invoices, and CRUD operations.
 
 - **[Android API App](https://github.com/nkysd/Kotlin_Assessment)**  
   An Android application using Kotlin, Retrofit, ViewModel, and API communication to display data across login, list, and detail screens.
