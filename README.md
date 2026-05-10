@@ -24,7 +24,7 @@ Before moving into IT, I worked in HR administration, sales support, and audio/t
 - **[UrSaviour Web Application](https://github.com/JustinCoKA/UrSaviour-Project)**  
   A team project for managing grocery discount information. I worked on login authentication, admin features, database design, and backend development using FastAPI and MySQL.
 
-- **[Android API App](https://github.com/nkysd/Kotlin_Assessment)**  
+- **[Android API App](https://github.com/nkysd/android-api-app)**  
   An Android application using Kotlin, Retrofit, ViewModel, and API communication to display data across login, list, and detail screens.
 
 - **[Java GUI Application](https://github.com/nkysd/Java_Assessment)**  
