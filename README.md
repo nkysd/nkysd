@@ -22,7 +22,7 @@ My interests include web application development, backend engineering, cloud tec
   A Java-based Minecraft plugin project using the Spigot API, developed to practice event-driven programming, command implementation, GUI development, and object-oriented design.
 
 - **[Spring Boot Login Application](https://github.com/nkysd/springboot-login-app)** (In Progress)  
-  A Spring Boot web application currently under development to practice authentication, user management, REST API development, and database integration using Java, Spring Boot, and MySQL.
+  A Spring Boot web application currently under development, focusing on authentication, user management, REST API development, and database integration using Java, Spring Boot, and MySQL.
 
 - **[SaaS Subscription Management System](https://github.com/nkysd/saas-subscription-management-system)**  
   A web-based admin system built with ASP.NET Core MVC and Entity Framework Core for managing customers, subscription plans, invoices, and CRUD operations.
@@ -31,7 +31,7 @@ My interests include web application development, backend engineering, cloud tec
   An Android application using Kotlin, Retrofit, ViewModel, and API communication to display data across login, list, and detail screens.
 
 - **[UrSaviour Web Application](https://github.com/JustinCoKA/UrSaviour-Project)**  
-  A team project for managing grocery discount information. I worked on login authentication, admin features, database design, and backend development using FastAPI and MySQL.
+  A team project for managing grocery discount information. I contributed to login authentication, admin features, database design, and backend development using FastAPI and MySQL.
 
 
 ### 🌱 Currently Learning
