@@ -21,7 +21,7 @@ My interests include web application development, backend engineering, cloud tec
 - **[Minecraft Plugin Development](https://github.com/nkysd/MinecraftPlugin_Java_Practice)**  
   A Java-based Minecraft plugin project using the Spigot API, developed to practice event-driven programming, command implementation, GUI development, and object-oriented design.
 
-- **[Spring Boot Login Application](https://github.com/nkysd/springboot-login-app)** (In Progress)
+- **[Spring Boot Login Application](https://github.com/nkysd/springboot-login-app)** (In Progress)  
   A Spring Boot web application currently under development to practice authentication, user management, REST API development, and database integration using Java, Spring Boot, and MySQL.
 
 - **[SaaS Subscription Management System](https://github.com/nkysd/saas-subscription-management-system)**  
