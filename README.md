@@ -11,7 +11,7 @@ My interests include web application development, backend engineering, cloud tec
 - **Database:** MySQL
 - **Infrastructure & Cloud:** AWS, Docker, Linux
 - **Mobile Development:** Android (Kotlin)
-- **Tools:** Git, GitHub, VS Code, Docker
+- **Tools:** Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA, Android Studio
 - **Low-code:** Claris FileMaker
 
 ### 🚀 Projects
