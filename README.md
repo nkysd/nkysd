@@ -8,13 +8,13 @@ Before moving into IT, I worked in HR administration, sales support, and audio/t
 
 ### 💻 Skills
 
-- **Backend:** Python (FastAPI), C#, ASP.NET Core MVC, PHP
+- **Backend:** Python (FastAPI), Java (Spring Boot), PHP, C#
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Mobile:** Kotlin, Android XML, Retrofit, ViewModel
-- **Database:** MySQL, SQLite, SQL Server
-- **Low-code / Business Tools:** Claris FileMaker, Claris Connect, Claris Studio
-- **Tools & Cloud:** Git, GitHub, Docker, AWS, MySQL Workbench, VS Code
-- **Other:** Java, Swing, OOP
+- **Database:** MySQL
+- **Infrastructure & Cloud:** AWS, Docker, Linux
+- **Mobile Development:** Android (Kotlin)
+- **Tools:** Git, GitHub, VS Code, Visual Studio
+- **Low-code:** Claris FileMaker
 
 ### 🚀 Projects
 
